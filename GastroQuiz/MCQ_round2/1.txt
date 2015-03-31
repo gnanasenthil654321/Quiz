@@ -1,0 +1,7 @@
+Physiological Gastrectomy means
+<div id ="option">
+  a) Ligate all major arteries
+  b) Antrectomy
+  c) Upper 1/3 of stoma resected
+  d) Gastric banding
+ </div>

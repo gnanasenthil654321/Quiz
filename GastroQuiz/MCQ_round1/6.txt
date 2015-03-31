@@ -1,0 +1,7 @@
+During vomiting breath is held in
+<div id = "option">
+a) Mid inspiration 
+b) End inspiration 
+c) Mid expiration
+d) End expiration
+</div>

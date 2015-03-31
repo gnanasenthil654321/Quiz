@@ -1,0 +1,6 @@
+Name the triad 
+<div style = "padding-left: 10%">
+	a. Jaundice
+	b. Right upper quadrant abdominal pain
+	c. Fever with rigor
+</div>

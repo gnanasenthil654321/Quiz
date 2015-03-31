@@ -1,0 +1,9 @@
+Identify the clinical condition with the given clinical clues.
+<div style = "float:left;padding-left:5%">
+a. Chest pain
+b. Difficulty in swallowing
+c. Regurgitation
+</div>
+<div style = "float:left;padding-left:5%">
+<img src = "http://127.0.0.1/GastroQuiz/Clinical/QuestionImages/6.jpg" alt = "Sometext">
+</div>

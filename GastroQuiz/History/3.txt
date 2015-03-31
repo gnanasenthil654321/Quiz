@@ -1,0 +1,3 @@
+<center>Identify the Personality</center>
+<center>Bone marrow -> Liver -> Immunity</center>
+<center><img src = "http://127.0.0.1/GastroQuiz/History/QuestionImages/3.jpg" alt = "what is this" height = "350" width ="300"></center>

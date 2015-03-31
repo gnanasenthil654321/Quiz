@@ -1,0 +1,11 @@
+Identify the clinical condition with the given clinical clues.
+<div style ="float:left;padding-left:5%">
+a. Common in First male child
+b. Projectile vomiting
+c. Palpable epigastric mass
+d. Visible gastric peristalsis
+e. Treated by surgery.
+</div>
+<div style = "float:left;padding-left:5%">
+<img src = "http://127.0.0.1/GastroQuiz/Clinical1/QuestionImages/4.jpg" alt = "Sometext">
+</div>

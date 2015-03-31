@@ -1,0 +1,2 @@
+Identify the diagnostic procedure shown below
+<img src = "http://127.0.0.1/GastroQuiz/RecentAdvances1/QuestionImages/1.jpg" height = "350" width = "300">

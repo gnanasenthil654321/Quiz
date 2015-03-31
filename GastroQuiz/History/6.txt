@@ -1,0 +1,6 @@
+<center>Identify the personality</center>
+<center><img src = "http://127.0.0.1/GastroQuiz/History/QuestionImages/6.jpg" alt = "what is this" height = "350" width ="300">
+</center>
+<center>Valleys between the villi</center> 
+
+

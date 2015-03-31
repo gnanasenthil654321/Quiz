@@ -1,0 +1,8 @@
+Only one person from the team SHOULD give the final answer. If two persons from the same team give 2 diffrent answers, then marks will not be awarded for the question.
+Starting question goes to Team A
+The round is based on Anatomy relavent to GIT
+Each team will be asked one question.
+10 marks are awarded for each correct answer.
+The question can be passed to other teams and 5 marks will be awarded for the passed question.
+There is no negative mark.
+Maximum time limit to answer each question is 20 sec.

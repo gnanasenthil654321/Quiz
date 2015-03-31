@@ -1,0 +1,10 @@
+Identify the clinical condition with the following pictures
+<div style = "float:left">
+<img src = "http://127.0.0.1/GastroQuiz/Clinical1/QuestionImages/5b.jpg" alt = "Sometext">
+</div>
+<div style = "float:left">
+<img src = "http://127.0.0.1/GastroQuiz/Clinical1/QuestionImages/5a.jpg" alt = "Sometext">
+</div>
+<div style = "float:left">
+<img src = "http://127.0.0.1/GastroQuiz/Clinical1/QuestionImages/5c.jpg" alt = "Sometext">
+</div>

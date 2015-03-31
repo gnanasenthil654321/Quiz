@@ -1,0 +1,7 @@
+Vibrio cholerae causes diarrhea because it 
+<div id = "option">
+a.Increase bicarbonate secretory channels in intestinal epithelial cells
+b.Increase chloride secretory channels in crypt cells
+c.Prevent the absorbtion of glucose and causes water  to be retained in lumen isoosmotically
+d.Inhibit CAMP production in intestinal epithelial cells
+</div>

@@ -1,0 +1,6 @@
+Starting question goes to Team C.
+The question CANNOT  be passed to other teams.
+In this round, the question along with 4 possible answers will be displayed, Team has to chose the most appropriate answer.
+10 marks are awarded for each correct answer.
+There is no negative mark.
+Maximum time limit to answer each question is 20 sec.

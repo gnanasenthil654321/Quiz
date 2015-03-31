@@ -1,0 +1,7 @@
+Starting question goes to Team B.
+The round is based on images of GIT pioneers.
+Each team will be asked one question.
+10 marks are awarded for each correct answer.
+The question can be passed to other teams and 5 marks will be awarded for the passed question.
+There is no negative mark.
+Maximum time limit to answer each question is 20 sec.

@@ -1,0 +1,6 @@
+The type of muscarinic receptor present in pancreatic acinar cell
+1. M1
+2. M2
+3. M3
+4. M4
+

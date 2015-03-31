@@ -1,0 +1,7 @@
+All of the following are satiety hormones EXCEPT
+<div id = "option">
+	a.CCK <br>
+	b.Gastrin <br>
+	c.Glucogon like peptide <br>
+	d.Peptite YY <br>
+</div>

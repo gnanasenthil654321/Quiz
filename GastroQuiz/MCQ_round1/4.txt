@@ -1,0 +1,7 @@
+Absorption of fat soluble vitamin requires 
+<div id = "option">
+a)Intrinsic factor 
+b)Chymotrypsin
+c)Pancreatic lipase 
+d)Pancreatic amylase 
+</div>

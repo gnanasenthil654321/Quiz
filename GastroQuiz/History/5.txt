@@ -1,0 +1,3 @@
+<center>Identify the personality</center>
+<center><img src = "http://127.0.0.1/GastroQuiz/History/QuestionImages/5.jpg" alt = "what is this" height = "350" width ="300"></center>
+<center>Common site of Sialolithiasis.</center>

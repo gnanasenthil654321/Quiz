@@ -1,0 +1,2 @@
+Name the investigation
+<img src = "http://127.0.0.1/GastroQuiz/RecentAdvances/QuestionImages/1.jpg" height = "350" width = "300">

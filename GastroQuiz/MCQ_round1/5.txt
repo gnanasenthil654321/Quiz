@@ -1,0 +1,7 @@
+Ammonia mainly comes from 
+<div id = "option">
+a) Colon and kidney
+b) Colon and muscle 
+c) Kidney and muscle 
+d) Liver and Kidney
+</div>

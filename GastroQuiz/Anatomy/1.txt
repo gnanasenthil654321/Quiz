@@ -1,0 +1,5 @@
+Name the normal projection of the Right lobe of liver.
+
+<div id = "im" style="text-align:center">
+<img src="http://127.0.0.1/GastroQuiz/Anatomy/QuestionImages/1.jpg" alt="some_text"> 
+</div>

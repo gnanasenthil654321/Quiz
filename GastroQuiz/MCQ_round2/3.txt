@@ -1,0 +1,7 @@
+Which of the following statements about Recommended Dietary Allowances (RDA) is TRUE
+<div id ="option">
+1. RDA is statistically is defined as Two Standard deviations above estimated average requirement.
+2. RDA is defined as being equal to the estimated average requirement.
+3. RDA is defined as being equal to maximum requirement.
+4. RDA is defined as recommended minimum requirement.
+</div>
